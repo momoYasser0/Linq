@@ -1,0 +1,14 @@
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\bin\Debug\net8.0\Linq01.exe
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\bin\Debug\net8.0\Linq01.deps.json
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\bin\Debug\net8.0\Linq01.runtimeconfig.json
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\bin\Debug\net8.0\Linq01.dll
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\bin\Debug\net8.0\Linq01.pdb
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\Linq01.AssemblyInfoInputs.cache
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\Linq01.AssemblyInfo.cs
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\Linq01.csproj.CoreCompileInputs.cache
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\Linq01.dll
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\refint\Linq01.dll
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\Linq01.pdb
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\Linq01.genruntimeconfig.cache
+D:\Mohamed\Back-end\Route\Videos\Ahmed Khaled\Linq\S1\Linq01\obj\Debug\net8.0\ref\Linq01.dll
